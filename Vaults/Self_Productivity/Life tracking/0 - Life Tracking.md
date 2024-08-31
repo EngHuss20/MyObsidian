@@ -162,27 +162,27 @@ Main TO DO for this week :
 - Subscribe in the reading course : https://www.mindvalley.com/superreading -
 - ❌✔️
 
-| Good                                          | Bad                                  |
-| --------------------------------------------- | ------------------------------------ |
-| Reading ❌ - - - - - -                         | What's App ✔️ - - - - - -            |
-| Listening to Qura'an ✔️ - - - - - -           | Friends ✔️ - - - - - -               |
-| Cook/Prepare a meal ✔️ - - - - - -            | Looking ✔️ - - - - - -               |
-| Observe ur thoughts ✔️ - - - - - -            | Music ✔️ - - - - - -                 |
-| Get in touch with your friends ✔️ - - - - - - | Scrolling in LinkedIn ✔️ - - - - - - |
-| Use sewak ✔️ - - - - - -                      | Curse ✔️ - - - - - -                 |
-| Bonus                                         | Bonus                                |
+| Good                                           | Bad                                   |
+| ---------------------------------------------- | ------------------------------------- |
+| Reading ❌ ✔️ - - - - -                         | What's App ✔️ ✔️ - - - - -            |
+| Listening to Qura'an ✔️ ✔️ - - - - -           | Friends ✔️ ✔️ - - - - -               |
+| Cook/Prepare a meal ✔️ ✔️ - - - - -            | Looking ✔️ ❌ - - - - -                |
+| Observe ur thoughts ✔️ ✔️ - - - - -            | Music ✔️ ✔️ - - - - -                 |
+| Get in touch with your friends ✔️ ✔️ - - - - - | Scrolling in LinkedIn ✔️ ✔️ - - - - - |
+| Use sewak ✔️ ✔️ - - - - -                      | Curse ✔️ ✔️ - - - - -                 |
+| Bonus                                          | Bonus                                 |
 
 | Category        | Points | Day 5-1 | Day 5-2 | Day 5-3 | Day 5-4 | Day 5-5 | Day 5-6 | Day 5-7 |
 | --------------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| Priorities      | 3      | 2.5     |         |         |         |         |         |         |
-| Mental Health   | 1      | 1       |         |         |         |         |         |         |
-| Family          | 1      | 1       |         |         |         |         |         |         |
-| Routine         | 2      | 2       |         |         |         |         |         |         |
-| Physical Status | 2      | 1       |         |         |         |         |         |         |
-| Career          | 1      | 0       |         |         |         |         |         |         |
-| Good            | 3.5    | 3       |         |         |         |         |         |         |
-| Bad             | 3.5    | 3.5     |         |         |         |         |         |         |
-| **Total**       | 17     | 14      |         |         |         |         |         |         |
+| Priorities      | 3      | 2.5     | 3       |         |         |         |         |         |
+| Mental Health   | 1      | 1       | 1       |         |         |         |         |         |
+| Family          | 1      | 1       | 1       |         |         |         |         |         |
+| Routine         | 2      | 2       | 2       |         |         |         |         |         |
+| Physical Status | 2      | 1       | 2       |         |         |         |         |         |
+| Career          | 1      | 0       | 1       |         |         |         |         |         |
+| Good            | 3.5    | 3       | 3.5     |         |         |         |         |         |
+| Bad             | 3.5    | 3.5     | 3       |         |         |         |         |         |
+| **Total**       | 17     | 14      | 16.5    |         |         |         |         |         |
 
 #### Special Things that happened during the week :
 

@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "162102c1c1efe94f",
+    "id": "52077626aa7d17da",
     "type": "split",
     "children": [
       {
-        "id": "d3affe0facafb9a4",
+        "id": "30c28c3fba139528",
         "type": "tabs",
         "children": [
           {
-            "id": "6736542d1ec93d4b",
+            "id": "48a1ae9061e86fde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life tracking/2024-08-31.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea2f55cc310d88eb",
+    "id": "92615374c6965b0b",
     "type": "split",
     "children": [
       {
-        "id": "84839cfee4da318f",
+        "id": "c5b7dcbf2e1dddae",
         "type": "tabs",
         "children": [
           {
-            "id": "242206b06333a039",
+            "id": "8de505bbe6671236",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "f5cc1a0502018bb2",
+            "id": "14f02e13d25af467",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "7fa7dd6764ab9106",
+            "id": "656c6234476dff38",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "d063f4a1d8740183",
+    "id": "c8746a24f42881c6",
     "type": "split",
     "children": [
       {
-        "id": "e71b6a0701154fbe",
+        "id": "1906ae286e07b4ff",
         "type": "tabs",
         "children": [
           {
-            "id": "79bd685514813ec5",
+            "id": "e313a9d586ba8b8b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life tracking/2024-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "061ccf89ca642c45",
+            "id": "41a3ac1695bf268c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life tracking/2024-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e8c1464041055e8f",
+            "id": "208a465584fe54ff",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,37 +114,18 @@
             }
           },
           {
-            "id": "e2a5aedcf7606da7",
+            "id": "0c58fde723f073a5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Life tracking/2024-08-31.md"
-              }
-            }
-          },
-          {
-            "id": "07a5af9c3fda6379",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "e1e916a9ce00e0ac",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-schedule",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,50 +134,10 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6736542d1ec93d4b",
-  "lastOpenFiles": [
-    "Life tracking/1 - Charts.md",
-    "Life tracking/0 - Life Tracking.md",
-    "Life tracking/2024-08-31.md",
-    "Life tracking/2024-08-30.md",
-    "Spaced Repetition.png",
-    "Pomodoro.png",
-    "Strategy.canvas",
-    "Life tracking/TTMPFROCB/The Plan's Inventory.md",
-    "Life tracking/2024-08-29.md",
-    "Life tracking/2024-07-28.md",
-    "KPS.md",
-    "ITI 5 days course.md",
-    "Life tracking/2024-08-28.md",
-    "Books/Designing the Internet of Things - Adrian McEwen Hakim Cassimally.md",
-    "Life tracking/2024-08-27.md",
-    "Entry Point.md",
-    "Flash Cards/Flash Cards.md",
-    "Linux.md",
-    "Books/CUMULUS-NETWORKS-Linux101.md",
-    "IOT.md",
-    "Flash Cards",
-    "Books",
-    "Life tracking/2024-08-26.md",
-    "Life tracking/2024-08-25.md",
-    "Life tracking/TTMPFROCB/TTMPFROCB.md",
-    "Life tracking/2024-08-20.md",
-    "Life tracking/2024-08-19.md",
-    "Life tracking/2024-08-18.md",
-    "Life tracking/2024-08-17.md",
-    "Life tracking/2024-08-24.md",
-    "Dutch.md",
-    "Life tracking/TTMPFROCB",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Life tracking",
-    "English",
-    "Spaced Repetition.png.crdownload",
-    "Pomodoro.png.crdownload"
-  ]
+  "active": "48a1ae9061e86fde",
+  "lastOpenFiles": []
 }
