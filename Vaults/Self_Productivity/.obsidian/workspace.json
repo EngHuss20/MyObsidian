@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life tracking/0 - Life Tracking.md",
+                "file": "Life tracking/2024-08-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life tracking/0 - Life Tracking.md",
+                "file": "Life tracking/2024-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life tracking/0 - Life Tracking.md",
+                "file": "Life tracking/2024-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life tracking/0 - Life Tracking.md"
+                "file": "Life tracking/2024-08-31.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -166,9 +166,13 @@
   },
   "active": "6736542d1ec93d4b",
   "lastOpenFiles": [
-    "Life tracking/TTMPFROCB/The Plan's Inventory.md",
     "Life tracking/2024-08-30.md",
+    "Life tracking/2024-08-31.md",
+    "Spaced Repetition.png",
+    "Pomodoro.png",
+    "Strategy.canvas",
     "Life tracking/0 - Life Tracking.md",
+    "Life tracking/TTMPFROCB/The Plan's Inventory.md",
     "Life tracking/1 - Charts.md",
     "Life tracking/2024-08-29.md",
     "Life tracking/2024-07-28.md",
@@ -193,10 +197,6 @@
     "Life tracking/2024-08-17.md",
     "Life tracking/2024-08-24.md",
     "Dutch.md",
-    "fructose.md",
-    "Strategy.canvas",
-    "Spaced Repetition.png",
-    "Pomodoro.png",
     "Life tracking/TTMPFROCB",
     "Untitled.canvas",
     "Untitled 1.canvas",
