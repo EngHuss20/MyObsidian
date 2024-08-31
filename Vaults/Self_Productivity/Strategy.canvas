@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0a7db96deeb4466a","type":"file","file":"Pomodoro.png","x":-246,"y":-500,"width":483,"height":272},
+		{"id":"cc46e6b7f0bb9725","type":"file","file":"Spaced Repetition.png","x":-246,"y":-45,"width":483,"height":265},
+		{"id":"0d01bf6d15de00cb","type":"text","text":"improve memorizing ","x":430,"y":63,"width":220,"height":50},
+		{"id":"e316bbbd357bb8cb","type":"text","text":"keep track of the total study time","x":350,"y":-389,"width":300,"height":50},
+		{"id":"080876b1d5e26587","type":"text","text":"our first target is to master these two techniques ","x":-760,"y":-180,"width":300,"height":60}
+	],
+	"edges":[
+		{"id":"b86225cd137de901","fromNode":"080876b1d5e26587","fromSide":"right","toNode":"0a7db96deeb4466a","toSide":"left"},
+		{"id":"35f4ffcaaa4cac31","fromNode":"080876b1d5e26587","fromSide":"right","toNode":"cc46e6b7f0bb9725","toSide":"left"},
+		{"id":"6f0084f016a853a0","fromNode":"cc46e6b7f0bb9725","fromSide":"right","toNode":"0d01bf6d15de00cb","toSide":"left"},
+		{"id":"0abbf9561b65231b","fromNode":"0a7db96deeb4466a","fromSide":"right","toNode":"e316bbbd357bb8cb","toSide":"left"}
+	]
+}

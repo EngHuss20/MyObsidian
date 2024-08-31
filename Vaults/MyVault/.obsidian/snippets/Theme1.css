@@ -1,0 +1,5 @@
+body:is(.theme-dark) {
+  --bold-color: var(--color-orange);
+  --text-highlight-bg: var(--color-blue);
+  --text-selection: #4e7919;
+}

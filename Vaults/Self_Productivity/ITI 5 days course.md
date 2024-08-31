@@ -1,0 +1,3 @@
+- Java Script : https://youtu.be/W6NZfCO5SIk?si=tQmYI4LeAYGLQsHc
+- Designing the Internet of Things : [Designing_the_Internet_of_Things.pdf](file:///C:/Users/husse/OneDrive/Desktop/Books/Tech%20Books/IOT/Designing_the_Internet_of_Things.pdf)
+- What is a Web Server ??
