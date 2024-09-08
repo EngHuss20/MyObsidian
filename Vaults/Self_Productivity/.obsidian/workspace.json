@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6736542d1ec93d4b",
+            "id": "b8fa3db5aa8f54f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life tracking/2024-08-31.md",
+                "file": "Life tracking/2024-09-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life tracking/2024-08-31.md",
+                "file": "Life tracking/2024-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life tracking/2024-08-31.md",
+                "file": "Life tracking/2024-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life tracking/2024-08-31.md"
+                "file": "Life tracking/2024-09-08.md"
               }
             }
           },
@@ -142,6 +142,14 @@
             "type": "leaf",
             "state": {
               "type": "google-calendar-view-schedule",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e4b69bf713045e0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
@@ -161,42 +169,43 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6736542d1ec93d4b",
+  "active": "b8fa3db5aa8f54f8",
   "lastOpenFiles": [
-    "Life tracking/1 - Charts.md",
+    "Life tracking/2024-09-07.md",
+    "Life tracking/2024-09-08.md",
+    "Life tracking/TTMPFROCB/The Plan's Inventory.md",
+    "Life tracking/2024-09-06.md",
     "Life tracking/0 - Life Tracking.md",
-    "Life tracking/2024-08-31.md",
+    "Life tracking/2024-07-31.md",
+    "Life tracking/2024-08-02.md",
+    "Life tracking/2024-07-28.md",
+    "Life tracking/2024-08-01.md",
+    "Life tracking/2024-07-30.md",
+    "Life tracking/1 - Charts.md",
+    "Books/Designing the Internet of Things - Adrian McEwen Hakim Cassimally.md",
+    "Linux.md",
     "Life tracking/2024-08-30.md",
+    "Life tracking/2024-09-05.md",
+    "IOT.md",
+    "ITI 5 days course.md",
+    "KPS.md",
+    "Life tracking/2024-09-04.md",
+    "Entry Point.md",
+    "Quraan.md",
+    "Flash Cards/Flash Cards.md",
+    "Life tracking/2024-08-31.md",
+    "Life tracking/2024-08-07.md",
+    "Life tracking/2024-08-15.md",
+    "Life tracking/2024-08-16.md",
     "Spaced Repetition.png",
     "Pomodoro.png",
     "Strategy.canvas",
-    "Life tracking/TTMPFROCB/The Plan's Inventory.md",
-    "Life tracking/2024-08-29.md",
-    "Life tracking/2024-07-28.md",
-    "KPS.md",
-    "ITI 5 days course.md",
-    "Life tracking/2024-08-28.md",
-    "Books/Designing the Internet of Things - Adrian McEwen Hakim Cassimally.md",
-    "Life tracking/2024-08-27.md",
-    "Entry Point.md",
-    "Flash Cards/Flash Cards.md",
-    "Linux.md",
-    "Books/CUMULUS-NETWORKS-Linux101.md",
-    "IOT.md",
     "Flash Cards",
     "Books",
-    "Life tracking/2024-08-26.md",
-    "Life tracking/2024-08-25.md",
-    "Life tracking/TTMPFROCB/TTMPFROCB.md",
-    "Life tracking/2024-08-20.md",
-    "Life tracking/2024-08-19.md",
-    "Life tracking/2024-08-18.md",
-    "Life tracking/2024-08-17.md",
-    "Life tracking/2024-08-24.md",
-    "Dutch.md",
     "Life tracking/TTMPFROCB",
     "Untitled.canvas",
     "Untitled 1.canvas",

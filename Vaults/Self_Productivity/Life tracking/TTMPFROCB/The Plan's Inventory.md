@@ -171,5 +171,132 @@ ___
 #### Day 2
 
 What did you do today ?
+	It was a great achievement of 6 study sessions with good concentration.
+___
+#### Day 3
+
+What did you do today ?
+	Gamasa
+___
+#### Day 4
+
+What did you do today ?
+	The second battle win
+___
+#### Day 5
+
+What did you do today ?
+	An intended essential break
+___
+#### Day 6
+
+What did you do today ?
+	A good comeback with efficient 4 sessions
+___
+#### Day 7
+
+What did you do today ?
+	1 session in total
+___
+### **Week 4 :**
+
+#### **1. Start Fresh Next Week:**
+
+- **Goal:** Aim for 4-5 Pomodoro sessions most days, and gradually increase if you can.
+- **Consistency:** Try to maintain some level of study, even on busier days, so you don’t feel like the whole week is off track.
+
+#### **2. Focus on Discipline:**
+
+- **Set Smaller Goals:** If you're struggling to start, aim for just one Pomodoro session. Once you begin, it's easier to keep going.
+- **Daily Review:** At the end of each day, review what went well and what needs improvement.
+
+#### **3. Addressing Disruptions:**
+
+- **Flexibility:** Life happens! Use any available time to study in shorter bursts if needed, especially if something unexpected comes up again.
+
+#### **4. El Remontada --> Linux:**
+- [[Linux]]
+___
+#### Day 1
+
+Summary :
+	7 Session 
+	2 --> revising Quraan
+	4 --> The C++ && Linux Remontada plan
+	1 --> IoT Book
+Did read in a tech book ?
+	Yes
+Did you work on the Remontada plan ?
+	Yes
+Did you achieve the min number of study sessions ? (4)
+	Yes
+___
+#### Day 2
+
+Summary :
+	8 sessions
+	2 --> revising Quraan
+	4 --> El Remontada
+	2 --> Reading in IoT
+Did read in a tech book ?
+	Yes
+Did you work on the Remontada plan ?
+	Yes
+Did you achieve the min number of study sessions ? (4)
+	Yes
+___
+#### Day 3
+
+Summary :
+	
+Did read in a tech book ?
+	
+Did you work on the Remontada plan ?
+	
+Did you achieve the min number of study sessions ? (4)
+	
+___
+#### Day 4
+
+Summary :
+	
+Did read in a tech book ?
+	
+Did you work on the Remontada plan ?
+	
+Did you achieve the min number of study sessions ? (4)
+	
+___
+#### Day 5
+
+Summary :
+	
+Did read in a tech book ?
+	
+Did you work on the Remontada plan ?
+	
+Did you achieve the min number of study sessions ? (4)
+	
+___
+#### Day 6
+
+Summary :
+	
+Did read in a tech book ?
+	
+Did you work on the Remontada plan ?
+	
+Did you achieve the min number of study sessions ? (4)
+	
+___
+#### Day 7
+
+Summary :
+	
+Did read in a tech book ?
+	
+Did you work on the Remontada plan ?
+	
+Did you achieve the min number of study sessions ? (4)
 	
 ___

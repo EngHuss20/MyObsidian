@@ -24,6 +24,7 @@ ___
 - [[Python]]
 - [[Dutch]]
 - [[Flash Cards]]
+- [[Quraan]]
 
 
 

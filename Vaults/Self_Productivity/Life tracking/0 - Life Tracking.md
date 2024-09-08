@@ -156,40 +156,77 @@ ___
 Main TO DO for this week :
 
 - Military paper -
--  comp and korek -
-- sort your unfinished situations with your friends for good -
+-  comp and korek ✔️
+- sort your unfinished situations with your friends for good ✔️
 - Get the VISA from your aunt -
 - Subscribe in the reading course : https://www.mindvalley.com/superreading -
 - ❌✔️
 
-| Good                                           | Bad                                   |
-| ---------------------------------------------- | ------------------------------------- |
-| Reading ❌ ✔️ - - - - -                         | What's App ✔️ ✔️ - - - - -            |
-| Listening to Qura'an ✔️ ✔️ - - - - -           | Friends ✔️ ✔️ - - - - -               |
-| Cook/Prepare a meal ✔️ ✔️ - - - - -            | Looking ✔️ ❌ - - - - -                |
-| Observe ur thoughts ✔️ ✔️ - - - - -            | Music ✔️ ✔️ - - - - -                 |
-| Get in touch with your friends ✔️ ✔️ - - - - - | Scrolling in LinkedIn ✔️ ✔️ - - - - - |
-| Use sewak ✔️ ✔️ - - - - -                      | Curse ✔️ ✔️ - - - - -                 |
-| Bonus                                          | Bonus                                 |
+| Good                                             | Bad                                     |
+| ------------------------------------------------ | --------------------------------------- |
+| Reading ❌ ✔️ - - - ❌ ✔️                          | What's App ✔️ ✔️ - - - ✔️ ✔️            |
+| Listening to Qura'an ✔️ ✔️ - - - ✔️ ✔️           | Friends ✔️ ✔️ - - - ✔️ ✔️               |
+| Cook/Prepare a meal ✔️ ✔️ - - - ✔️ ✔️            | Looking ✔️ ❌ - - - ✔️ ❌                 |
+| Observe ur thoughts ✔️ ✔️ - - - ✔️ ✔️            | Music ✔️ ✔️ - - - ✔️ ✔️                 |
+| Get in touch with your friends ✔️ ✔️ - - - ✔️ ✔️ | Scrolling in LinkedIn ✔️ ✔️ - - - ✔️ ✔️ |
+| Use sewak ✔️ ✔️ - - - ❌ ✔️                       | Curse ✔️ ✔️ - - - ✔️ ✔️                 |
+| Bonus                                            | Bonus                                   |
 
 | Category        | Points | Day 5-1 | Day 5-2 | Day 5-3 | Day 5-4 | Day 5-5 | Day 5-6 | Day 5-7 |
 | --------------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| Priorities      | 3      | 2.5     | 3       |         |         |         |         |         |
-| Mental Health   | 1      | 1       | 1       |         |         |         |         |         |
-| Family          | 1      | 1       | 1       |         |         |         |         |         |
-| Routine         | 2      | 2       | 2       |         |         |         |         |         |
-| Physical Status | 2      | 1       | 2       |         |         |         |         |         |
-| Career          | 1      | 0       | 1       |         |         |         |         |         |
-| Good            | 3.5    | 3       | 3.5     |         |         |         |         |         |
-| Bad             | 3.5    | 3.5     | 3       |         |         |         |         |         |
-| **Total**       | 17     | 14      | 16.5    |         |         |         |         |         |
+| Priorities      | 3      | 2.5     | 3       | 3       | --      | --      | 2.5     | 2.5     |
+| Mental Health   | 1      | 1       | 1       | 1       | --      | --      | 1       | 1       |
+| Family          | 1      | 1       | 1       | 1       | --      | --      | 1       | 1       |
+| Routine         | 2      | 2       | 2       | 2       | --      | --      | 2       | 1       |
+| Physical Status | 2      | 1       | 2       | 2       | --      | --      | 2       | 2       |
+| Career          | 1      | 0       | 1       | 0       | --      | --      | 1       | 1       |
+| Good            | 3.5    | 3       | 3.5     | --      | --      | --      | 2.5     | 3.5     |
+| Bad             | 3.5    | 3.5     | 3       | --      | --      | --      | 3.5     | 3       |
+| **Total**       | 17     | 14      | 16.5    | 14      | 14      | 14      | 15.5    | 15      |
 
 #### Special Things that happened during the week :
 
 - The Looking observation section in the daily notes 
-- 
+- The second win was obtained Alhamdulellah and the journey goes on.
 ___
 ### Week 6
+
+Main TO DO for this week :
+
+- Military paper -
+- Get the VISA from your aunt -
+- Subscribe in the reading course : https://www.mindvalley.com/superreading -
+- Car fixing -
+- ❌✔️
+
+| Good                                            | Bad                                           |
+| ----------------------------------------------- | --------------------------------------------- |
+| Reading ✔️ ✔️ - - - - -                         | What's App ✔️ ✔️ - - - - -                    |
+| Listening to Qura'an ✔️ ✔️ - - - - -            | Friends ✔️ ✔️ - - - - -                       |
+| Cook/Prepare a meal ✔️ ✔️ - - - - -             | Looking ✔️ ✔️ - - - - -                       |
+| Observe ur thoughts ✔️ ✔️ - - - - -             | Music ✔️ ✔️ - - - - -                         |
+| Get in touch with your friends  ✔️ ✔️ - - - - - | Any kind of fictional stories ✔️ ✔️ - - - - - |
+| Use sewak ✔️ ✔️ - - - - -                       | Curse ❌ ✔️ - - - - -                          |
+| Interaction with People ✔️ ✔️ - - - - -         | Bonus                                         |
+
+| Category        | Points | Day 6-1 | Day 6-2 | Day 6-3 | Day 6-4 | Day 6-5 | Day 6-6 | Day 6-7 |
+| --------------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Priorities      | 3      | 3       | 3       |         |         |         |         |         |
+| Mental Health   | 1      | 1       | 1       |         |         |         |         |         |
+| Family          | 1      | 1       | 1       |         |         |         |         |         |
+| Routine         | 2      | 2       | 2       |         |         |         |         |         |
+| Physical Status | 2      | 2       | 2       |         |         |         |         |         |
+| Career          | 1      | 1       | 1       |         |         |         |         |         |
+| Good            | 3.5    | 3.5     | 3.5     |         |         |         |         |         |
+| Bad             | 3.5    | 3       | 3.5     |         |         |         |         |         |
+| **Total**       | 17     | 16.5    | 17      |         |         |         |         |         |
+
+#### Special Things that happened during the week :
+
+- 
+
+___
+### Week 7
 
 Main TO DO for this week :
 
@@ -204,7 +241,7 @@ Main TO DO for this week :
 | Observe ur thoughts - - - - - - -             | Music - - - - - - -                         |
 | Get in touch with your friends  - - - - - - - | Any kind of fictional stories - - - - - - - |
 | Use sewak - - - - - - -                       | Curse - - - - - - -                         |
-| Bonus                                         | Bonus                                       |
+| Bonus----------------------------<<<          | Bonus----------------------<<<              |
 
 | Category        | Points | Day -1 | Day -2 | Day -3 | Day -4 | Day -5 | Day -6 | Day -7 |
 | --------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -223,3 +260,4 @@ Main TO DO for this week :
 - 
 
 ___
+

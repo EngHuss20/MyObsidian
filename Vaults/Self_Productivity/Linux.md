@@ -47,3 +47,108 @@ ___
 - [[CUMULUS-NETWORKS-Linux101]]
 
 ___
+## **El Remontada**:
+
+Here’s a tailored **6-week plan** that integrates **Linux Administration** and **C++**, while keeping in mind your goal of reaching 12 Pomodoros. We’ll use each day effectively to balance revision, new learning, and hands-on tasks.
+
+### **General Structure:**
+- **Daily Target:** 4-6 Pomodoros for the first week, increasing gradually.
+- **C++ Focus:** Early in the week, work on C++ basics leading to OOP.
+- **Linux Focus:** Later in the week, focus on Linux Administration.
+- **Tasks/Projects:** Combine Linux and C++ for practical applications.
+
+---
+
+### **Week 1: Revision of Linux Basics & C++ Basics**
+- **C++**: 
+   - *Days 1-3:* Focus on revising basic syntax, control structures, and functions.
+   - **Resource:** *“Programming: Principles and Practice Using C++”* by Bjarne Stroustrup (Chapters 1-5).
+   - **Task:** Write simple programs (e.g., a calculator).
+   
+- **Linux**: 
+   - *Days 4-6:* Revisit shell commands, file systems, and user permissions.
+   - **Resource:** *“The Linux Command Line”* by William Shotts (Chapters 1-7).
+   - **Task:** Practice with file system navigation, user management, and permissions.
+
+---
+
+### **Week 2: Linux User and Group Management & C++ Functions**
+- **C++**: 
+   - *Days 1-3:* Functions, function overloading, recursion.
+   - **Resource:** Stroustrup (Chapters 6-7).
+   - **Task:** Create C++ programs that use functions with recursion.
+   
+- **Linux**: 
+   - *Days 4-6:* Focus on user and group management.
+   - **Resource:** “The Linux Command Line” (Chapters 8-10).
+   - **Task:** Create users, set permissions, and practice with groups on a Linux VM.
+
+---
+
+### **Week 3: Linux Package Management & C++ Arrays & Pointers**
+- **C++**: 
+   - *Days 1-3:* Arrays, pointers, memory management.
+   - **Resource:** Stroustrup (Chapters 8-10).
+   - **Task:** Build a C++ program that dynamically allocates memory.
+   
+- **Linux**: 
+   - *Days 4-6:* Package management (apt, yum).
+   - **Resource:** *“Linux for Beginners”* by Jason Cannon (Chapter on package management).
+   - **Task:** Install and remove software via command line, manage dependencies.
+
+---
+
+### **Week 4: Linux Services & C++ Classes (OOP Introduction)**
+- **C++**: 
+   - *Days 1-3:* Introduction to Classes and Objects.
+   - **Resource:** Stroustrup (Chapters 11-13).
+   - **Task:** Build a class that models a real-world entity.
+   
+- **Linux**: 
+   - *Days 4-6:* Introduction to services and daemons.
+   - **Resource:** *“Linux Administration: A Beginner’s Guide”* by Wale Soyinka (Chapters on services and daemons).
+   - **Task:** Manage and configure services like SSH, and practice with systemctl.
+
+---
+
+### **Week 5: Linux Networking & Advanced C++ OOP**
+- **C++**: 
+   - *Days 1-3:* Advanced OOP (Inheritance, Polymorphism).
+   - **Resource:** Stroustrup (Chapters 14-16).
+   - **Task:** Create a program using inheritance and polymorphism.
+   
+- **Linux**: 
+   - *Days 4-6:* Networking basics (IP, DNS, firewall configuration).
+   - **Resource:** *“Linux Network Administration”* by Terry Dawson (Chapter on Networking).
+   - **Task:** Configure IP addresses, check routing, and practice firewall rules.
+
+---
+
+### **Week 6: Final Review & Integration of Linux and C++**
+- **C++**: 
+   - *Days 1-3:* Finalize OOP concepts and prepare for more complex programs.
+   - **Resource:** Stroustrup (Chapters 17-18).
+   - **Task:** Build a C++ project that integrates everything you’ve learned (e.g., file management system).
+
+- **Linux**: 
+   - *Days 4-6:* Review key Linux administration concepts.
+   - **Task:** Create a project that involves managing Linux services or networking combined with a C++ program.
+
+---
+
+### **Ongoing Tasks & Integration:**
+- Practice **C++** by running programs on your **Linux** system.
+- Each week, attempt at least 1 task that integrates both C++ and Linux (e.g., writing a C++ program that interacts with the file system).
+
+---
+
+### **Resources:**
+1. **Books:**
+   - *“Programming: Principles and Practice Using C++”* by Bjarne Stroustrup.
+   - *“The Linux Command Line”* by William Shotts.
+   - *“Linux Administration: A Beginner’s Guide”* by Wale Soyinka.
+   
+2. **Videos:**
+   - [C++ Programming](https://www.youtube.com/watch?v=vLnPwxZdW4Y) (Beginner-level playlist).
+   - [Linux Tutorials for Beginners](https://www.youtube.com/watch?v=wBp0Rb-ZJak) (The Net Ninja).
+
