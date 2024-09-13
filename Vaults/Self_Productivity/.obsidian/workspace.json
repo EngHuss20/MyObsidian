@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KPS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7312feff2ff47296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entry Point.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "696bf49359014a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life tracking/2024-09-13.md",
+                "file": "Life tracking/TTMPFROCB/The Plan's Inventory.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KPS.md",
+                "file": "Life tracking/TTMPFROCB/The Plan's Inventory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KPS.md",
+                "file": "Life tracking/TTMPFROCB/The Plan's Inventory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KPS.md"
+                "file": "Life tracking/TTMPFROCB/The Plan's Inventory.md"
               }
             }
           },
@@ -178,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,11 +176,13 @@
   "active": "a96814bb9b48380c",
   "lastOpenFiles": [
     "Entry Point.md",
+    "Life tracking/0 - Life Tracking.md",
+    "Life tracking/2024-09-13.md",
+    "Life tracking/TTMPFROCB/The Plan's Inventory.md",
+    "Life tracking/2024-09-12.md",
+    "Speed Typing Log.md",
     "KPS.md",
     "Books/Designing the Internet of Things - Adrian McEwen Hakim Cassimally.md",
-    "Life tracking/2024-09-13.md",
-    "Life tracking/0 - Life Tracking.md",
-    "Speed Typing Log.md",
     "Super Reader Quest.md",
     "English/English.md",
     "Dutch.md",
@@ -214,8 +192,6 @@
     "English/Session 01.md",
     "Flash Cards/Quraan/Quraan.md",
     "Flash Cards/Quraan",
-    "Life tracking/2024-09-12.md",
-    "Life tracking/TTMPFROCB/The Plan's Inventory.md",
     "Life tracking/1 - Charts.md",
     "ITI 5 days course.md",
     "Docs related to the course.md",
