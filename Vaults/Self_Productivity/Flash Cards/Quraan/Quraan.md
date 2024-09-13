@@ -1,0 +1,4 @@
+- [[Quraan-Chapter-1-rev-1]]
+- [[Quraan-Chapter-1-rev-2]]
+- [[Quraan-Chapter 30-rev-1]]
+- [[َQuraan-Chapter 30-rev-2]]

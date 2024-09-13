@@ -14,6 +14,9 @@ ___
 
 - [Pomodoro technique]
 - [Spaced repetition]
+- [[Super Reader Quest]]
+- [[Flash Cards Tutorial]]
+- [[Speed Typing Log]]
 ---
 ### Key Topics
 
@@ -23,8 +26,9 @@ ___
 -  [[IOT]]
 - [[Python]]
 - [[Dutch]]
-- [[Flash Cards]]
 - [[Quraan]]
+- [[C++]]
+
 
 
 

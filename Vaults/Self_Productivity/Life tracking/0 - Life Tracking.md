@@ -193,40 +193,86 @@ ___
 
 Main TO DO for this week :
 
-- Military paper -
-- Get the VISA from your aunt -
-- Subscribe in the reading course : https://www.mindvalley.com/superreading -
-- Car fixing -
+- Military paper ✔️
+- Get the VISA from your aunt ✔️
+- Subscribe in the reading course : https://www.mindvalley.com/superreading ✔️
+- Car fixing ❌
 - ❌✔️
 
-| Good                                            | Bad                                           |
-| ----------------------------------------------- | --------------------------------------------- |
-| Reading ✔️ ✔️ - - - - -                         | What's App ✔️ ✔️ - - - - -                    |
-| Listening to Qura'an ✔️ ✔️ - - - - -            | Friends ✔️ ✔️ - - - - -                       |
-| Cook/Prepare a meal ✔️ ✔️ - - - - -             | Looking ✔️ ✔️ - - - - -                       |
-| Observe ur thoughts ✔️ ✔️ - - - - -             | Music ✔️ ✔️ - - - - -                         |
-| Get in touch with your friends  ✔️ ✔️ - - - - - | Any kind of fictional stories ✔️ ✔️ - - - - - |
-| Use sewak ✔️ ✔️ - - - - -                       | Curse ❌ ✔️ - - - - -                          |
-| Interaction with People ✔️ ✔️ - - - - -         | Bonus                                         |
+| Good                                                | Bad                                               |
+| --------------------------------------------------- | ------------------------------------------------- |
+| Reading ✔️ ✔️ ✔️ ✔️ ✔️ ✔️ ✔️                        | What's App ✔️ ✔️ ✔️ ✔️ ✔️ ✔️ ✔️                   |
+| Listening to Qura'an ✔️ ✔️ ✔️ ✔️ ✔️ ✔️ ✔️           | Friends ✔️ ✔️ ❌ ❌ ✔️ ✔️ ✔️                        |
+| Cook/Prepare a meal ✔️ ✔️ ✔️ ✔️ ✔️ ✔️ ✔️            | Looking ✔️ ✔️ ❌ ✔️ ✔️ ✔️ ❌                        |
+| Observe ur thoughts ✔️ ✔️ ✔️ ✔️ ❌ ✔️ ✔️             | Music ✔️ ✔️ ✔️ ✔️ ✔️ ✔️ ✔️                        |
+| Get in touch with your friends  ✔️ ✔️ ✔️ ❌ ✔️ ✔️ ✔️ | Any kind of fictional stories ✔️ ✔️ ✔️ ❌ ✔️ ✔️ ✔️ |
+| Use sewak ✔️ ✔️ ✔️ ✔️ ✔️ ✔️ ❌                       | Curse ❌ ✔️ ✔️ ❌ ✔️ ✔️ ✔️                          |
+| Interaction with People ✔️ ✔️ ✔️ ✔️ ✔️ ✔️ ✔️        | Bonus                                             |
 
 | Category        | Points | Day 6-1 | Day 6-2 | Day 6-3 | Day 6-4 | Day 6-5 | Day 6-6 | Day 6-7 |
 | --------------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| Priorities      | 3      | 3       | 3       |         |         |         |         |         |
-| Mental Health   | 1      | 1       | 1       |         |         |         |         |         |
-| Family          | 1      | 1       | 1       |         |         |         |         |         |
-| Routine         | 2      | 2       | 2       |         |         |         |         |         |
-| Physical Status | 2      | 2       | 2       |         |         |         |         |         |
-| Career          | 1      | 1       | 1       |         |         |         |         |         |
-| Good            | 3.5    | 3.5     | 3.5     |         |         |         |         |         |
-| Bad             | 3.5    | 3       | 3.5     |         |         |         |         |         |
-| **Total**       | 17     | 16.5    | 17      |         |         |         |         |         |
+| Priorities      | 3      | 3       | 3       | 1       | 0       | 3       | 0       | 3       |
+| Mental Health   | 1      | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
+| Family          | 1      | 1       | 1       | 1       | 1       | 1       | 1       | 1       |
+| Routine         | 2      | 2       | 2       | 2       | 1       | 1       | 2       | 2       |
+| Physical Status | 2      | 2       | 2       | 2       | 1.5     | 1       | 0.5     | 2       |
+| Career          | 1      | 1       | 1       | 1       | 1       | 1       | 0       | 0       |
+| Good            | 3.5    | 3.5     | 3.5     | 3.5     | 3       | 3       | 3.5     | 3       |
+| Bad             | 3.5    | 3       | 3.5     | 2.5     | 1.5     | 3.5     | 3.5     | 3       |
+| **Total**       | 17     | 16.5    | 17      | 14      | 10      | 14.5    | 11.5    | 15      |
 
 #### Special Things that happened during the week :
 
-- 
+- Balance Gym
 
 ___
-### Week 7
+### Week 7 - [[2024-09-13]]
+
+Main TO DO for this week :
+
+- Car fixing -
+- Military Paper -
+- Start studying English the right way - 
+- **Isolate Yourself** and take back the progress -
+- ❌✔️
+
+| Good                                          | Bad                                         |
+| --------------------------------------------- | ------------------------------------------- |
+| Writing - - - - - - -                         | What's App - - - - - - -                    |
+| Listening to Qura'an - - - - - - -            | **FRIENDS** - - - - - - -                   |
+| Cook/Prepare a meal - - - - - - -             | **LOOKING** - - - - - - -                   |
+| Observe ur thoughts - - - - - - -             | **MUSIC** - - - - - - -                     |
+| Get in touch with your friends  - - - - - - - | Any kind of fictional stories - - - - - - - |
+| Use sewak - - - - - - -                       | **CURSE** - - - - - - -                     |
+| Interaction with people - - - - - - -         | **Bonus(1)** - - - - - - -                  |
+**Some Adjustments** in terms of habits :
+
+- **FRIENDS** : Don't interact or meet them unless it is something unavoidable
+- **LOOKING** : Even the accidents are considered falls 
+- **MUSIC** : Just by going to some place where there are music you fail --> observe 
+- **CURSE** : Even the accidents are considered falls
+
+| Category        | Points | Day 7-1 | Day 7-2 | Day 7-3 | Day 7-4 | Day 7-5 | Day 7-6 | Day 7-7 |
+| --------------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| **Priorities**  | 3      |         |         |         |         |         |         |         |
+| Mental Health   | 1      |         |         |         |         |         |         |         |
+| Family          | 1      |         |         |         |         |         |         |         |
+| Routine         | 2      |         |         |         |         |         |         |         |
+| Physical Status | 2      |         |         |         |         |         |         |         |
+| Career          | 1      |         |         |         |         |         |         |         |
+| Good            | 3.5    |         |         |         |         |         |         |         |
+| Bad             | 3.5    |         |         |         |         |         |         |         |
+| **Total**       | 17     |         |         |         |         |         |         |         |
+
+#### Special Things that happened during the week :
+
+- I started to link the daily notes to the Life tracking note to make it more traceable in the future
+#### For the next week :
+
+- Time to put the Quraan in the points on which we rate the day
+
+___
+### Week 8
 
 Main TO DO for this week :
 
@@ -236,28 +282,34 @@ Main TO DO for this week :
 | Good                                          | Bad                                         |
 | --------------------------------------------- | ------------------------------------------- |
 | Writing - - - - - - -                         | What's App - - - - - - -                    |
-| Listening to Qura'an - - - - - - -            | Friends - - - - - - -                       |
-| Cook/Prepare a meal - - - - - - -             | Looking - - - - - - -                       |
-| Observe ur thoughts - - - - - - -             | Music - - - - - - -                         |
+| Listening to Qura'an - - - - - - -            | **FRIENDS** - - - - - - -                   |
+| Cook/Prepare a meal - - - - - - -             | **LOOKING** - - - - - - -                   |
+| Observe ur thoughts - - - - - - -             | **MUSIC** - - - - - - -                     |
 | Get in touch with your friends  - - - - - - - | Any kind of fictional stories - - - - - - - |
-| Use sewak - - - - - - -                       | Curse - - - - - - -                         |
-| Bonus----------------------------<<<          | Bonus----------------------<<<              |
+| Use sewak - - - - - - -                       | **CURSE** - - - - - - -                     |
+| Interaction with people - - - - - - -         | **Bonus(1)** - - - - - - -                  |
 
-| Category        | Points | Day -1 | Day -2 | Day -3 | Day -4 | Day -5 | Day -6 | Day -7 |
-| --------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Priorities      | 3      |        |        |        |        |        |        |        |
-| Mental Health   | 1      |        |        |        |        |        |        |        |
-| Family          | 1      |        |        |        |        |        |        |        |
-| Routine         | 2      |        |        |        |        |        |        |        |
-| Physical Status | 2      |        |        |        |        |        |        |        |
-| Career          | 1      |        |        |        |        |        |        |        |
-| Good            | 3.5    |        |        |        |        |        |        |        |
-| Bad             | 3.5    |        |        |        |        |        |        |        |
-| **Total**       | 17     |        |        |        |        |        |        |        |
+**Some Adjustments** in terms of habits :
+
+- 
+
+| Category        | Points | Day 8-1 | Day 8-2 | Day 8-3 | Day 8-4 | Day 8-5 | Day 8-6 | Day 8-7 |
+| --------------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| **Priorities**  | 3      |         |         |         |         |         |         |         |
+| Mental Health   | 1      |         |         |         |         |         |         |         |
+| Family          | 1      |         |         |         |         |         |         |         |
+| Routine         | 2      |         |         |         |         |         |         |         |
+| Physical Status | 2      |         |         |         |         |         |         |         |
+| Career          | 1      |         |         |         |         |         |         |         |
+| Good            | 3.5    |         |         |         |         |         |         |         |
+| Bad             | 3.5    |         |         |         |         |         |         |         |
+| **Total**       | 17     |         |         |         |         |         |         |         |
 
 #### Special Things that happened during the week :
 
 - 
+#### For the next week :
+
+- 
 
 ___
-

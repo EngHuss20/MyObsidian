@@ -12,3 +12,5 @@ As a new language learner, I've decided to start exploring Dutch. While I'm stil
     
 
 This is just the beginning of my Dutch learning journey. I'm excited to see how it evolves and what new opportunities may arise as I continue to develop my skills in this language.
+
+TBC

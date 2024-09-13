@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8fa3db5aa8f54f8",
+            "id": "a96814bb9b48380c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life tracking/2024-09-08.md",
+                "file": "KPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7312feff2ff47296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entry Point.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "696bf49359014a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life tracking/2024-09-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life tracking/2024-09-08.md",
+                "file": "KPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life tracking/2024-09-08.md",
+                "file": "KPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life tracking/2024-09-08.md"
+                "file": "KPS.md"
               }
             }
           },
@@ -154,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -173,41 +197,43 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b8fa3db5aa8f54f8",
+  "active": "a96814bb9b48380c",
   "lastOpenFiles": [
-    "Life tracking/2024-09-07.md",
-    "Life tracking/2024-09-08.md",
-    "Life tracking/TTMPFROCB/The Plan's Inventory.md",
-    "Life tracking/2024-09-06.md",
-    "Life tracking/0 - Life Tracking.md",
-    "Life tracking/2024-07-31.md",
-    "Life tracking/2024-08-02.md",
-    "Life tracking/2024-07-28.md",
-    "Life tracking/2024-08-01.md",
-    "Life tracking/2024-07-30.md",
-    "Life tracking/1 - Charts.md",
-    "Books/Designing the Internet of Things - Adrian McEwen Hakim Cassimally.md",
-    "Linux.md",
-    "Life tracking/2024-08-30.md",
-    "Life tracking/2024-09-05.md",
-    "IOT.md",
-    "ITI 5 days course.md",
-    "KPS.md",
-    "Life tracking/2024-09-04.md",
     "Entry Point.md",
-    "Quraan.md",
-    "Flash Cards/Flash Cards.md",
-    "Life tracking/2024-08-31.md",
-    "Life tracking/2024-08-07.md",
-    "Life tracking/2024-08-15.md",
-    "Life tracking/2024-08-16.md",
-    "Spaced Repetition.png",
-    "Pomodoro.png",
+    "KPS.md",
+    "Books/Designing the Internet of Things - Adrian McEwen Hakim Cassimally.md",
+    "Life tracking/2024-09-13.md",
+    "Life tracking/0 - Life Tracking.md",
+    "Speed Typing Log.md",
+    "Super Reader Quest.md",
+    "English/English.md",
+    "Dutch.md",
+    "English/Session 04.md",
+    "English/Session 03.md",
+    "English/Session 02.md",
+    "English/Session 01.md",
+    "Flash Cards/Quraan/Quraan.md",
+    "Flash Cards/Quraan",
+    "Life tracking/2024-09-12.md",
+    "Life tracking/TTMPFROCB/The Plan's Inventory.md",
+    "Life tracking/1 - Charts.md",
+    "ITI 5 days course.md",
+    "Docs related to the course.md",
+    "Life tracking/2024-07-28.md",
+    "Books/CUMULUS-NETWORKS-Linux101.md",
+    "Life tracking/2024-09-09.md",
+    "Life tracking/2024-09-11.md",
+    "Life tracking/TTMPFROCB/TTMPFROCB.md",
+    "Life tracking/2024-09-08.md",
+    "Life tracking/2024-09-07.md",
+    "Quest Preparation.canvas",
+    "سورة البقرة.canvas",
     "Strategy.canvas",
+    "Pomodoro.png",
+    "Spaced Repetition.png",
     "Flash Cards",
     "Books",
     "Life tracking/TTMPFROCB",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Life tracking",
     "English",

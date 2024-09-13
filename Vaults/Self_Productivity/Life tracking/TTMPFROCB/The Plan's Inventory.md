@@ -248,55 +248,88 @@ ___
 #### Day 3
 
 Summary :
-	
+	4 sessions
 Did read in a tech book ?
-	
+	No
 Did you work on the Remontada plan ?
-	
+	No
 Did you achieve the min number of study sessions ? (4)
-	
+	Yes
 ___
 #### Day 4
 
 Summary :
-	
+	4 sessions
 Did read in a tech book ?
-	
+	No
 Did you work on the Remontada plan ?
-	
+	Yes
 Did you achieve the min number of study sessions ? (4)
-	
+	Yes
 ___
 #### Day 5
 
 Summary :
-	
+	1 session
 Did read in a tech book ?
-	
+	No
 Did you work on the Remontada plan ?
-	
+	No
 Did you achieve the min number of study sessions ? (4)
-	
+	No
+Did you work on the Super Reading Quest ?
+	Yes
 ___
 #### Day 6
 
 Summary :
-	
+	4 sessions
 Did read in a tech book ?
-	
+	No
 Did you work on the Remontada plan ?
-	
+	No
 Did you achieve the min number of study sessions ? (4)
-	
+	Yes
 ___
 #### Day 7
 
 Summary :
-	
+	5 sessions
+	2 cambly
+	2 revising Quraan
+	1 reading Quest
 Did read in a tech book ?
-	
+	No
 Did you work on the Remontada plan ?
-	
+	No
 Did you achieve the min number of study sessions ? (4)
-	
+	Yes
 ___
+### **Week 5**
+Let’s break down the targets for the upcoming week based on your progress and ensure you have specific guidance for both **Pomodoro sessions** and your **Linux & C++ study**.
+
+#### **Target for Pomodoro Sessions:**
+You achieved 8 sessions on Day 2 last week, so let’s build on that gradually while maintaining consistency.
+
+#### **Main Plan** (for overall study sessions):
+- **Day 1-2**: Target 8 sessions. Minimum: 6 sessions.
+- **Day 3-4**: Target 9 sessions. Minimum: 7 sessions.
+- **Day 5-6**: Target 10 sessions. Minimum: 8 sessions.
+- **Day 7**: Target 11 sessions. Minimum: 9 sessions.
+
+This allows for gradual progression towards 12 sessions while ensuring you don’t push too hard too quickly.
+
+#### **Side Plan: Linux and C++ Breakdown**:
+
+#### **Linux Administration**:
+- **Days 1-4**: Aim for **3 Pomodoro sessions per day** revisiting key Linux topics like shell commands, file permissions, and system monitoring.
+- **Days 5-7**: Reduce to **2 Pomodoro sessions** focusing on areas you struggled with or didn't finish from earlier.
+
+#### **C++ (OOP Focus)**:
+- **Days 1-4**: Use **2 Pomodoro sessions** per day to continue learning OOP. Focus on understanding classes, objects, and constructors. 
+- **Days 5-7**: If comfortable, switch to coding exercises. Aim for **1-2 Pomodoro sessions per day** depending on progress.
+
+#### **Summary**:
+- **Main Study Target**: 8 sessions for Days 1-2, gradually increasing to 11 sessions by Day 7.
+- **Linux Admin**: 3 sessions on Linux Days 1-4, and 2 sessions Days 5-7.
+- **C++**: 2 sessions Days 1-4, and 1-2 sessions Days 5-7.
